@@ -1,0 +1,3 @@
+Problem Link: https://leetcode.com/problems/minimum-array-end/
+Video Solution Link: https://youtu.be/QyiNpKt0iOw
+Topic: Bit manipulation:
