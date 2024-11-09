@@ -1,5 +1,5 @@
 # Leetcode-Solutions-AlgorithmHQ
-For a convenient and organized way to access the Java code solutions explained in detail on AlgorithmHQ, consider visiting this dedicated GitHub repository. This repository serves as a comprehensive resource where viewers can explore and review each solution step-by-step, exactly as they are demonstrated in the videos.
+For a convenient and organized way to access the Java code (initially) solutions explained in detail on AlgorithmHQ, consider visiting this dedicated GitHub repository. This repository serves as a comprehensive resource where viewers can explore and review each solution step-by-step, exactly as they are demonstrated in the videos.
 
 This repository includes Java solution codes for all new videos posted on AlgorithmHQ. If you're looking for the solution code from an earlier video, just leave a comment with the problem's name on any video or community post, or send an email(mentioned at the bottom) request.
 
