@@ -1,3 +1,6 @@
+Contributed by : Sundaram Agnihotri (Student)
+Linkedin : https://www.linkedin.com/in/sundaram-agnihotri/
+
 class Solution {
     public int[] decrypt(int[] code, int k) {
         int n = code.length;
