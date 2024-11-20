@@ -1,3 +1,7 @@
+Contributed by : Sundaram Agnihotri (Student)
+Linkedin : https://www.linkedin.com/in/sundaram-agnihotri/
+
+
 class Solution {
 public:
     int findLengthOfShortestSubarray(vector<int>& arr) {
