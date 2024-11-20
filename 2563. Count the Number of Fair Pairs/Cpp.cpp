@@ -1,3 +1,6 @@
+Contributed by : Sundaram Agnihotri (Student)
+Linkedin : https://www.linkedin.com/in/sundaram-agnihotri/
+
 class Solution {
 public:
     long long countFairPairs(vector<int>& nums, int lower, int upper) {
