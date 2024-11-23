@@ -1,6 +1,22 @@
 Contributed by : Sundaram Agnihotri (Student)
 Linkedin : https://www.linkedin.com/in/sundaram-agnihotri/
 
+Approah : 
+
+1 : Find the maximum value in the array (element) to generate all primes less than this value
+
+2 : Create a boolean array to mark all prime numbers less than element.
+
+3 : Use the sieve to efficiently identify all primes.
+
+4 : Start from the second-to-last element and compare it with the next element (prev).
+
+5 : If the current element is not less than prev, attempt to reduce it.
+
+6 : Subtract the largest possible prime p such that nums[i]−𝑝<prev , If no valid prime p is found, return false.
+
+7 : If the current element is successfully reduced, update prev to the new value and move to the previous element.
+
 class Solution {
 public:
     bool primeSubOperation(vector<int>& nums) {
