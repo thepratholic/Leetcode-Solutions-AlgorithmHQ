@@ -1,6 +1,21 @@
 Contributed by : Sundaram Agnihotri (Student)
 Linkedin : https://www.linkedin.com/in/sundaram-agnihotri/
 
+Approach : 
+
+1 : Start from the end of the array and move left until finding the first element that breaks the non-decreasing order (right pointer).
+
+2 : If the entire array is already sorted (right == 0), return 0 since no subarray needs removal.
+
+3 : Assume the subarray to be removed spans from the beginning to the right pointer.
+
+4 : For each element in the left portion (sorted initially)
+  a : Ensure the left portion remains sorted.
+  b : Move the right pointer to find the smallest point where the element at left can merge with the right sorted portion (arr[right] >= arr[left]).
+
+5 : Calculate the length of the subarray to remove as right - left - 1 and update the minimum length.
+
+6 : Return the smallest length of the subarray to remove to make the remaining array sorted.
 
 class Solution {
 public:
