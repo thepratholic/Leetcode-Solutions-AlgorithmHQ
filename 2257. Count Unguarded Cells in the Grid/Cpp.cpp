@@ -1,6 +1,20 @@
 contributed by : Sundaram Agnihotri
 Likedin : https://www.linkedin.com/in/sundaram-agnihotri/
 
+Approach : 
+
+1 : Create a m×n grid with . (unoccupied cells).
+
+2 : Place G for guards and W for walls based on the input.
+
+3 : For each guard, use a helper function to mark all visible cells in the four directions (north, south, east, west) as V (guarded).
+
+4 : Stop marking when encountering a wall (W) or another guard (G).
+
+5 : Iterate over the grid and count cells that remain . (unoccupied and unguarded).
+
+6 : Return the count of unguarded cells
+
 class Solution {
 public:
     void helper(int r, int c, vector<vector<char>>& grid) {
