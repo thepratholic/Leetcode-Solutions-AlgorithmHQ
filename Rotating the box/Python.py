@@ -26,3 +26,7 @@ class Solution:
             res.append(col)  # Append the new row to the result matrix
 
         return res  # Return the rotated matrix
+
+
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
