@@ -1,3 +1,5 @@
+// AlgorithmHQ original solution
+
 class Solution {
     public long minEnd(int n, int x) {
         // consider x as the first element
