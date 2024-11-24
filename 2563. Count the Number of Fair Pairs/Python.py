@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn: https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 from typing import List
 
 class Solution:
@@ -21,7 +24,3 @@ class Solution:
         # Count pairs in the range [lower, upper] using `lower_bound`.
         # `upper + 1` ensures pairs with sum <= upper are included.
         return self.lower_bound(nums, upper + 1) - self.lower_bound(nums, lower)
-
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn: https://www.linkedin.com/in/pratham-chelaramani-a44283227/
