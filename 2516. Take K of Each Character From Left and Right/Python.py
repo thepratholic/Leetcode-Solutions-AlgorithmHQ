@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 class Solution:
     def takeCharacters(self, s: str, k: int) -> int:
         cnt = [0] * 3
@@ -28,8 +31,3 @@ class Solution:
             max_window = max(max_window, right - left + 1)
 
         return n - max_window  # Return the minimum number of characters to remove
-
-
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
