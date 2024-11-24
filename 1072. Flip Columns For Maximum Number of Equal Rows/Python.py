@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 from collections import defaultdict
 from typing import List
 
@@ -15,7 +18,3 @@ class Solution:
             count[rowKey] += 1  # Increment the count for the row's pattern.
 
         return max(count.values())  # Return the maximum count of a single pattern.
-
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
