@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn: https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 from typing import List
 
 class Solution:
@@ -25,7 +28,3 @@ class Solution:
                 res.append(nums[r] if cnt == k else -1)
 
         return res
-
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
