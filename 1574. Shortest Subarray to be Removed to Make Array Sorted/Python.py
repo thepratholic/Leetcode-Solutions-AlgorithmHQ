@@ -1,5 +1,7 @@
-from typing import List
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
 
+from typing import List
 
 class Solution:
     def findLengthOfShortestSubarray(self, arr: List[int]) -> int:
@@ -23,7 +25,3 @@ class Solution:
             left += 1  # Move the left pointer to the next element
 
         return ans  # Return the length of the shortest subarray to remove
-
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
