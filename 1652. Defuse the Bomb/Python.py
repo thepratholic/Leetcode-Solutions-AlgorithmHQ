@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn: https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 from typing import List
 
 class Solution:
@@ -18,7 +21,3 @@ class Solution:
                 for j in range(i - abs(k), i):
                     result[i] += code[(j + len(code)) % len(code)]  # Adjust index using modulo
         return result
-
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
