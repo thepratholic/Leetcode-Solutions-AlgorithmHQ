@@ -1,5 +1,7 @@
-from typing import List
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
 
+from typing import List
 
 class Solution:
     def minimumSubarrayLength(self, nums: List[int], k: int) -> int:
@@ -38,6 +40,3 @@ class Solution:
             if bit_counts[pos]:
                 result |= 1 << pos  # Set the bit at position 'pos' if the count is non-zero
         return result  # Return the number formed by the OR of the current window's elements
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/

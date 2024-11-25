@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 from math import sqrt
 from typing import List
 
@@ -30,7 +33,3 @@ class Solution:
             prev = n - largest_p  # Update prev for the next iteration with the new value after subtraction
 
         return True
-
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/

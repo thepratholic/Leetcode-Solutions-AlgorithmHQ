@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 from typing import List
 
 class Solution:
@@ -20,7 +23,3 @@ class Solution:
             res[i] = max_bea  # Store the result for the current query.
 
         return res
-
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/

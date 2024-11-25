@@ -1,6 +1,8 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 from collections import deque
 from typing import List
-
 
 class Solution:
     def shortestSubarray(self, nums: List[int], k: int) -> int:
@@ -30,6 +32,3 @@ class Solution:
 
         # If no valid subarray is found, return -1; otherwise, return the result
         return -1 if res == float("inf") else res
-
-# Contributed by Pratham Chelaramani (Student)
-# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
