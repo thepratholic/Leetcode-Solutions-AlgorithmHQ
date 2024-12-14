@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn: https://www.linkedin.com/in/thepratholic/
+
 from collections import deque
 
 # Stack class with support for maintaining a functional value (like min or max) of the stack.
