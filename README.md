@@ -8,23 +8,3 @@ AlgorithmHQ welcome contributions! If you’d like to share an alternative solut
 So, don't hesitate to contribute, let's do great things together!
 
 For contributions/enquiries please reach out on: aditichourasia10@gmail.com. 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Tree
-|  |
-| ------- |
-| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AditiChourasia/Leetcode-Solutions-AlgorithmHQ/tree/master/2493-reverse-odd-levels-of-binary-tree) |
-## Depth-First Search
-|  |
-| ------- |
-| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AditiChourasia/Leetcode-Solutions-AlgorithmHQ/tree/master/2493-reverse-odd-levels-of-binary-tree) |
-## Breadth-First Search
-|  |
-| ------- |
-| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AditiChourasia/Leetcode-Solutions-AlgorithmHQ/tree/master/2493-reverse-odd-levels-of-binary-tree) |
-## Binary Tree
-|  |
-| ------- |
-| [2493-reverse-odd-levels-of-binary-tree](https://github.com/AditiChourasia/Leetcode-Solutions-AlgorithmHQ/tree/master/2493-reverse-odd-levels-of-binary-tree) |
-<!---LeetCode Topics End-->
