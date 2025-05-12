@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn : https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 from sortedcontainers import SortedSet
 from typing import List
 
