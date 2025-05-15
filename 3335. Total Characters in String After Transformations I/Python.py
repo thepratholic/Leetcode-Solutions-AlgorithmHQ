@@ -1,3 +1,7 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn: https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
+
 class Solution:
     def lengthAfterTransformations(self, s: str, t: int) -> int:
         MOD = 10**9 + 7
