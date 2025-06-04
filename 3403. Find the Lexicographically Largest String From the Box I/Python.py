@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn: https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 class Solution:
     def answerString(self, word: str, numFriends: int) -> str:
         # If only 1 friend, the entire string is the only choice
