@@ -1,3 +1,6 @@
+# Contributed by Pratham Chelaramani (Student)
+# LinkedIn: https://www.linkedin.com/in/pratham-chelaramani-a44283227/
+
 class Solution:
     def maxDiff(self, num: int) -> int:
         maxi, mini = str(num), str(num)
